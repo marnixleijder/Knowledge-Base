@@ -1,5 +1,5 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Base
+description: A knowledge base for all my findings, solutions and resources, organized for easy access and exploration across multiple devices! Powered by Jekyll and styled with Just the Docs for a clean, navigable experience.
 theme: just-the-docs
 
 url: https://marnixleijder.github.io/base
