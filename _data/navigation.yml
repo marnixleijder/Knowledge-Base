@@ -1,0 +1,13 @@
+- title: Home
+  url: /base/
+- title: Findings
+  url: /base/findings/
+- title: Solutions
+  url: /newrepo/solutions/
+  children:
+    - title: Network Fixes
+      url: /base/solutions/network/
+    - title: Security Tips
+      url: /base/solutions/security/
+- title: Useful Websites
+  url: /base/websites/
