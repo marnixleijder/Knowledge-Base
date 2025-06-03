@@ -3,3 +3,7 @@ description: A knowledge base for all my findings, solutions and resources, orga
 theme: just-the-docs
 
 url: https://marnixleijder.github.io/base
+
+aux_links:
+  Marnix's portfolio:
+    - https://marnixleijder.github.io/
