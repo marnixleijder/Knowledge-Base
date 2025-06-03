@@ -7,3 +7,6 @@ url: https://marnixleijder.github.io/base
 aux_links:
   Marnix's portfolio:
     - https://marnixleijder.github.io/
+
+back_to_top: true
+back_to_top_text: "Back to top"
