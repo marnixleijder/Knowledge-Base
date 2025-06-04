@@ -2,8 +2,13 @@ title: Base
 description: A knowledge base for all my findings, solutions and resources, organized for easy access and exploration across multiple devices! Powered by Jekyll and styled with Just the Docs for a clean, navigable experience.
 theme: just-the-docs
 
+#logo: "/assets/images/just-the-docs.png"
+#favicon_ico: "/assets/images/favicon.ico"
+search_enabled: true
+
 url: https://marnixleijder.github.io/base
 
+aux_links_new_tab: true
 aux_links:
   Marnix's portfolio:
     - https://marnixleijder.github.io/
@@ -17,3 +22,5 @@ nav_external_links:
     url: https://github.com/just-the-docs/just-the-docs
     hide_icon: false # set to true to hide the external link icon - defaults to false
     opens_in_new_tab: true # set to true to open this link in a new tab - defaults to false
+
+footer_content: "Copyright &copy; 2025-%Y <a href=\"https://marnixleijder.github.io/\">Marnix Leijder</a>"
