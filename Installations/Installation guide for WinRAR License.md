@@ -1,6 +1,12 @@
-# Troubleshooting WinRAR Registration
+---
+layout: default
+title: Installation guide for WinRAR License
+#nav_title: "Test Page"  # Custom title for navigation (optional, overrides 'title')
+#nav_order: 4           # Order in the sidebar (e.g., 4th position)
+#parent: "Test"    # Links this page under a parent item in navigation
+---
 
-If you're having trouble registering WinRAR, follow these steps to troubleshoot and resolve the issue:
+# Installation guide for WinRAR License
 
 ## Step 1: Download and install WinRAR
 
