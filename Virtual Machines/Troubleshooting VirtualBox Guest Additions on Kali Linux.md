@@ -10,14 +10,14 @@ title: Troubleshooting VirtualBox Guest Additions on Kali Linux
 
 If you're having trouble with VirtualBox Guest Additions on a Kali Linux virtual machine, there are several steps you can take to troubleshoot and resolve the issue. Here’s a detailed guide to help you get it working:
 
-## Step 1: Update Your System
+## Step 1: Update your system
 
 First, ensure that your Kali Linux system is up to date.
 
-    sudo apt update
+    sudo apt update -y
     sudo apt upgrade -y
 
-## Step 2: Install Required Packages
+## Step 2: Install required packages
 
 Make sure you have the necessary packages installed.
 
@@ -25,11 +25,11 @@ Make sure you have the necessary packages installed.
 
 ## Step 3: Install VirtualBox Guest Additions
 
-1. **Insert the Guest Additions CD Image:**
+1. **Insert the Guest Additions CD image:**
    - Start your Kali Linux VM.
    - In the VirtualBox menu, go to Devices > Insert Guest Additions CD image....
 
-2. **Mount the CD Image:**
+2. **Mount the CD image:**
    - Open a terminal in your Kali Linux VM.
    - Create a mount point and mount the CD image.
 
@@ -38,7 +38,7 @@ Make sure you have the necessary packages installed.
     sudo mount /dev/cdrom /mnt/cdrom
     ```
 
-3. **Run the Installer:**
+3. **Run the installer:**
    - Navigate to the mounted directory and run the installer.
 
     ```bash
@@ -53,16 +53,16 @@ Make sure you have the necessary packages installed.
     sudo reboot
     ```
 
-## Step 4: Verify Installation
+## Step 4: Verify installation
 
 After rebooting, verify that the Guest Additions are working correctly.
 
-1. **Check the Version:**
+1. **Check the version:**
    - Open a terminal and check the version of the Guest Additions.
 
     ```bash
     VBoxControl --version
     ```
 
-2. **Check Shared Clipboard and Drag-and-Drop:**
+2. **Check shared clipboard and drag-and-drop:**
    - Test the shared clipboard and drag-and-drop features to ensure they are working.
