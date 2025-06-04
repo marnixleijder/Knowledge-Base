@@ -1,4 +1,4 @@
-title: Base
+title: Marnix's Knowledge-Base
 description: A knowledge base for all my findings, solutions and resources, organized for easy access and exploration across multiple devices! Powered by Jekyll and styled with Just the Docs for a clean, navigable experience.
 theme: just-the-docs
 
@@ -6,7 +6,7 @@ theme: just-the-docs
 #favicon_ico: "/assets/images/favicon.ico"
 search_enabled: true
 
-url: https://marnixleijder.github.io/base
+url: https://marnixleijder.github.io/Knowledge-Base
 
 aux_links_new_tab: true
 aux_links:
