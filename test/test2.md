@@ -3,7 +3,7 @@ layout: default
 title: Test Page
 #nav_title: "Test Page"  # Custom title for navigation (optional, overrides 'title')
 #nav_order: 4           # Order in the sidebar (e.g., 4th position)
-#parent: "Test"    # Links this page under a parent item in navigation
+parent: "Test"    # Links this page under a parent item in navigation
 ---
 
 # Test Page
